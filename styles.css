@@ -1,6 +1,7 @@
 body {
-    font-family: 'Arial', sans-serif;
-    text-align: center;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
     background-color: #f0f0f0;
 }
 
@@ -8,6 +9,13 @@ h1 {
     color: #333;
 }
 
-p {
-    color: #666;
+#dynamic-quote {
+    font-style: italic;
+    color: #555;
+}
+
+#dynamic-image {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
 }
