@@ -10,7 +10,8 @@ const quotes = [
     "Kiko è una spalla su",
     "Ho preso un pesce",
     "La matriciana più buona che tu abbia mai mangiato",
-    "Ho il cazzo da nero"
+    "Ho il cazzo da nero",
+    "Per favore, reguardisci tu ale"
 ];
 
 // Export the array
