@@ -6,4 +6,4 @@ const quotes = [
 ];
 
 // Export the array
-module.exports = quotes;
+window.quotes = quotes;
