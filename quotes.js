@@ -1,8 +1,6 @@
 const quotes = [
-    "Prova1",
-    "Prova2",
-    "Prova3",
-    "Prova4"
+    "É comu a vaianedda, avi bisognu du palu.",
+    "Fante, Cavallo e Re" //FIXME remove
 ];
 
 // Export the array
