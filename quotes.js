@@ -13,7 +13,14 @@ const quotes = [
     "Ho il cazzo da nero",
     "Per favore, reguardisci tu ale",
     "Se vuoi ti legnio",
-    "Dybala è più forte di Mbappe"
+    "Dybala è più forte di Mbappe",
+    "Se una e bona e gli puzza te la fotti lo stesso",
+    "Non lo so ero fatto",
+    "Carmine poi ha fatto una gaf",
+    "Figuratevi se kilan ora fa il pazzoide",
+    "Chilla bucchina i mammata",
+    "Breve ma inciso",
+    "Vado a ripetere dalla mia collega"
 ];
 
 // Export the array

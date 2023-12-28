@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function () {
         const randomQuoteIndex = Math.floor(Math.random() * window.quotes.length);
         const randomImageIndex = Math.floor(Math.random() * window.images.length);
 
-        quoteElement.textContent = window.quotes[randomQuoteIndex];
+        quoteElement.textContent = '"' + window.quotes[randomQuoteIndex] + '"';
         imageElement.src = 'images/' + window.images[randomImageIndex];
         imageElement.alt = 'Random Image';
     }
