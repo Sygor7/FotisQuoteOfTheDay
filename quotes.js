@@ -1,7 +1,7 @@
 const quotes = [
     "É comu a vaianedda, avi bisognu du palu.",
     "Viene una morte ogni volta di Papa",
-    "Lo sai che le Tachipirina se le dividi diventan cin... due da cinquecento",
+    "Lo sai che le Tagheperina se le dividi diventan cin... due da cinquecento",
     "Problemi, problemi, problemi, problemi per Nino Foti",
     "It's you year!",
     "U pe mia fra staiu morendu, aaaaaaaaah!",
