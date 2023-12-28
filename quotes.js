@@ -2,7 +2,7 @@ const quotes = [
     "É comu a vaianedda, avi bisognu du palu.",
     "Viene una morte ogni volta di Papa",
     "Lo sai che le Tagheperina se le dividi diventan cin... due da cinquecento",
-    "Problemi, problemi, problemi, problemi per Nino Foti",
+    "Problemi, problemi, problemi, problemi per N*** F***",
     "It's you year!",
     "U pe mia fra staiu morendu, aaaaaaaaah!",
     "Ho una voglia di prenderti a pugni cantando l'inno della Juve",
