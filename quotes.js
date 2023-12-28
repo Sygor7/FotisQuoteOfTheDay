@@ -12,7 +12,8 @@ const quotes = [
     "La matriciana più buona che tu abbia mai mangiato",
     "Ho il cazzo da nero",
     "Per favore, reguardisci tu ale",
-    "Se vuoi ti legnio"
+    "Se vuoi ti legnio",
+    "Dybala è più forte di Mbappe"
 ];
 
 // Export the array
