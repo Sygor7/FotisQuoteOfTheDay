@@ -20,7 +20,8 @@ const quotes = [
     "Figuratevi se kilan ora fa il pazzoide",
     "Chilla bucchina i mammata",
     "Breve ma inciso",
-    "Vado a ripetere dalla mia collega"
+    "Vado a ripetere dalla mia collega",
+    "Non c'è tre senza quattro"
 ];
 
 // Export the array
