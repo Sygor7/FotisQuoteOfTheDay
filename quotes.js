@@ -11,7 +11,8 @@ const quotes = [
     "Ho preso un pesce",
     "La matriciana più buona che tu abbia mai mangiato",
     "Ho il cazzo da nero",
-    "Per favore, reguardisci tu ale"
+    "Per favore, reguardisci tu ale",
+    "Se vuoi ti legnio"
 ];
 
 // Export the array
